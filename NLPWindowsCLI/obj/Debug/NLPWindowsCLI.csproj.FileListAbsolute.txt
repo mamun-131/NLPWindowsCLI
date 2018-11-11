@@ -1,0 +1,10 @@
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\bin\Debug\NLPWindowsCLI.exe.config
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\bin\Debug\NLPWindowsCLI.exe
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\bin\Debug\NLPWindowsCLI.pdb
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.csprojAssemblyReference.cache
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.Form1.resources
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.Properties.Resources.resources
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.csproj.GenerateResource.cache
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.csproj.CoreCompileInputs.cache
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.exe
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\NLPWindowsCLI\obj\Debug\NLPWindowsCLI.pdb
