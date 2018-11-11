@@ -29,12 +29,13 @@ namespace NLPWindowsCLI
 
             p.StartInfo = info;
             p.Start();
-
+            string comanddd = "";
             using (StreamWriter sw = p.StandardInput)
             {
                 if (sw.BaseStream.CanWrite)
                 {
-                 //   sw.WriteLine("help");
+                    comanddd = Console.ReadLine();
+                   sw.WriteLine(comanddd);
                    
                     p.WaitForExit();
                 }
