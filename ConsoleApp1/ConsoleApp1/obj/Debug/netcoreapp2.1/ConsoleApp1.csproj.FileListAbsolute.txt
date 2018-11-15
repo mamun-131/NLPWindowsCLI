@@ -9,3 +9,14 @@ C:\Users\310267647\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\
 C:\Users\310267647\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
 C:\Users\310267647\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
 C:\Users\310267647\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Mamun\Semester6\COMP306_API\Assignment4\NLPWindowsCLI\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
