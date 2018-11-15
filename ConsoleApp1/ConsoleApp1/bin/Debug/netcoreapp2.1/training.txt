@@ -1,0 +1,35 @@
+dir ans: dir
+show me directory ans: dir
+can you show me directory ans: dir
+show me dir ans: dir
+show me file ans: dir
+show me files ans: dir
+show me folder ans: dir
+show me folders ans: dir
+show me files and folders ans: dir
+cls ans: cls
+clean screen ans: cls
+clear screen ans: cls
+please clean screen ans: cls
+please clear screen ans: cls
+can you clean screen ans: cls
+can you clear screen ans: cls
+mkdir ans: mkdir
+make a folder ans: mkdir
+create a folder ans: mkdir
+can you make a folder ans: mkdir
+would you please make a folder ans: mkdir
+make a folder in the name of ans: mkdir
+make a directory ans: mkdir
+create a folder in the name of ans: mkdir
+can you make a directory ans: mkdir
+would you please make a directory ans: mkdir
+help ans: help
+help me ans: help
+please help me ans: help
+pls help me ans: help
+would you pls help me ans: help
+would you please help me ans: help
+cd\ ans: cd\
+go to root ans: cd\
+show me root ans: cd\
