@@ -40,8 +40,14 @@ namespace ConsoleApp1
             layers[0].FeedForward(inputs);
             for (int i = 1; i < layers.Length; i++)
             {
+                //Console.WriteLine(i + " ------Output-------: " + layers[i].outputs[0]);
                 layers[i].FeedForward(layers[i - 1].outputs);
+
+                
             }
+
+        
+
 
             return layers[layers.Length - 1].outputs; //return output of last layer
         }
@@ -145,6 +151,8 @@ namespace ConsoleApp1
                     }
 
                     outputs[i] = (float)Math.Tanh(outputs[i]);
+
+                    //Console.WriteLine(i + " Output: " + (float)Math.Tanh(outputs[i]));
                 }
 
                 return outputs;

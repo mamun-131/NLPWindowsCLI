@@ -1,12 +1,3 @@
-dir ans: dir
-show me directory ans: dir
-can you show me directory ans: dir
-show me dir ans: dir
-show me file ans: dir
-show me files ans: dir
-show me folder ans: dir
-show me folders ans: dir
-show me files and folders ans: dir
 cls ans: cls
 clean screen ans: cls
 clear screen ans: cls
@@ -33,3 +24,12 @@ would you please help me ans: help
 cd\ ans: cd\
 go to root ans: cd\
 show me root ans: cd\
+cd ans: cd
+go to ans: cd
+move to ans: cd
+dir ans: dir
+show me directory ans: dir
+can you show me directory ans: dir
+show me dir ans: dir
+show me file ans: dir
+show me files ans: dir
